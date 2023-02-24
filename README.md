@@ -1,6 +1,7 @@
 # Prog7-BE
 
 Sistema elettronico di rilevamento incendi che utilizza la rete internet HTTP per segnalare, ad un centro di assistenza remoto, la presenza di un incendio.
+
 La sonda e il processo che è costantemente in ascolto su essa per captare il segnale di incendio.
 
 Il processo di controllo sonde puo gestire piu sonde e comunicare gli allarmi al centro di controllo.
